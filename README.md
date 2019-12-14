@@ -1,4 +1,4 @@
-# Evaluating Model Accuracy and Time Efficiency for Price Prediction on Online Second-hand Retail Markets
+# Evaluating Model Accuracy and Time Efficiency for Price Predictions on Online Second-hand Retail Markets
 This project is a part of the final project for UC Davis [STA 141C - Big Data & High Performance Statistical Computing](https://statistics.ucdavis.edu/expanded-descriptions/141C) in Spring Quarter 2019. 
 
 #### -- Project Status: [Completed]
