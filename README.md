@@ -23,4 +23,7 @@ Through comparing different models, we found that models rank from linear regres
 [Tian Yue](https://github.com/lumapaty)@lumapaty
 
 
+For more details about the project, please refer to the [report](https://github.com/JiamanBettyWu/price-prediction/blob/master/price_prediction.pdf) and [code](https://github.com/JiamanBettyWu/price-prediction/blob/master/project.py).
+
+
 
